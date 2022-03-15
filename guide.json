@@ -24,7 +24,7 @@
     "items": [
       {
         "title": "vlad and niki 12 Locks",
-        "image": "",
+        "image": "https://github.com/ghanmi1/Guidejson/blob/gh-pages/12clocks.jpg",
 		
         "color": "#FFFFFF",
         "text_size": "25",
@@ -38,7 +38,7 @@
       },
       {
         "title": "vlad and niki fun kids ",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "image": "https://github.com/ghanmi1/Guidejson/blob/gh-pages/funkids.png",
         "color": "#FFFFFF",
         "text_size": "25",
         "isLink": "",
@@ -50,7 +50,7 @@
       },
       {
         "title": "Vlad and Niki - Smart Games",
-        "image": "",
+        "image": "https://github.com/ghanmi1/Guidejson/blob/gh-pages/smart.jpg",
 	"color": "#FFFFFF",
         "text_size": "25",
         "isLink": "",
@@ -62,7 +62,7 @@
       },
       {
         "title": "vlad and niki Supermarket game",
-        "image": "",
+        "image": "https://github.com/ghanmi1/Guidejson/blob/gh-pages/supermarche.jpg",
 	"color": "#FFFFFF",
         "text_size": "25",
         "isLink": "",
