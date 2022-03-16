@@ -26,12 +26,12 @@
         "title": "vlad and niki 12 Locks",
         "image": "https://ghanmi1.github.io/Guidejson/12clocks.jpg",
 		
-        "color": "#000000",
+        "color": "#DDFFF9",
         "text_size": "25",
         "isLink": false,
         "link_title": "vlad and niki 12 Locks",
         "setLink": "",
-        "image_link": "https://ghanmi1.github.io/Guidejson/12clocks.jpg",
+        "image_link": "",
         "text": "Vlad and Niki love to have fun. Boys never hold on, so they embark on all sorts of adventures. This time they wanted cookies, but the jar was closed... and not just closed, but locked with 12 padlocks.",
         "isNative": false
 		
@@ -39,7 +39,7 @@
       {
         "title": "vlad and niki fun kids ",
         "image": "https://ghanmi1.github.io/Guidejson/funkids.png",
-        "color": "#000000",
+        "color": "#DDFFF9",
         "text_size": "25",
         "isLink": false,
 	"link_title": "",
@@ -51,7 +51,7 @@
       {
         "title": "Vlad and Niki - Smart Games",
         "image": "https://ghanmi1.github.io/Guidejson/smart.jpg",
-	"color": "#000000",
+	"color": "#DDFFF9",
         "text_size": "25",
         "isLink": false,
 	"link_title": "",
@@ -63,7 +63,7 @@
       {
         "title": "vlad and niki Supermarket game",
         "image": "https://ghanmi1.github.io/Guidejson/supermarche.jpg",
-	"color": "#000000",
+	"color": "#DDFFF9",
         "text_size": "25",
         "isLink": false,
 	"link_title": "",
