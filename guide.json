@@ -77,24 +77,24 @@
         "image": "",
 	"color": "#FFFFFF",
         "text_size": "25",
-        "isLink": "",
+        "isLink": false,
 	"link_title": "",
 	"setLink": "",
         "image_link": "",
         "text": "",
-        "isNative": "false"
+        "isNative": false
       },
       {
         "title": "",
         "image": "",
 	"color": "#FFFFFF",
         "text_size": "25",
-        "isLink": "",
+        "isLink": false,
 	"link_title": "",
 	"setLink": "",
         "image_link": "",
         "text": "",
-        "isNative": "false"
+        "isNative": false
       }
     ]
 
