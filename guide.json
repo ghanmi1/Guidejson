@@ -2,11 +2,11 @@
   "GuideData": {
 
 
-    "AdsController": [
+    "AdsController": 
       {
         "ironsourcekey":"14008e1e1"
       }
-    ],
+    ,
 
     "items": [
       {
