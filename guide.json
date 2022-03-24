@@ -4,7 +4,10 @@
 
     "AdsController": 
       {
-        "ironsourcekey":"14008e1e1"
+        "ironsourcekey":"14008e1e1",
+	"admobkey":"ca-app-pub-3940256099942544~3347511713",
+	  "admobinter":"ca-app-pub-3940256099942544/1033173712"
+	     
       }
     ,
 
