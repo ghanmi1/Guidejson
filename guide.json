@@ -62,31 +62,9 @@
         "image_link": "",
         "text": "Do you like videos with Vlad & Nikita? Do you want to play with your favorite youtubers? Let's go to the huge fun supermarket! This is a new official educational shopping game from popular video bloggers for boys Vlad and Nikita . Let's go shopping at the grocery store, the building market, the houseware shop and the toy shop. Exciting adventures and fun games for kids!",
         "isNative": false
-      },
-      {
-        "title": "",
-        "image": "",
-	"color": "#FF000000",
-        "text_size": "20",
-        "isLink": false,
-	"link_title": "",
-	"setLink": "",
-        "image_link": "",
-        "text": "",
-        "isNative": false
-      },
-      {
-        "title": "",
-        "image": "",
-	"color": "##FF000000",
-        "text_size": "20",
-        "isLink": false,
-	"link_title": "",
-	"setLink": "",
-        "image_link": "",
-        "text": "",
-        "isNative": false
       }
+     
+      
     ]
 
   }
